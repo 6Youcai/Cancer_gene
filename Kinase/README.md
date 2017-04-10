@@ -2,7 +2,7 @@
 
 蛋白质激酶是细胞功能的主要调节因子，其构成最大和功能上最多的基因家族之一。通过添加磷酸化基团到底物蛋白质中，可以调控活性，定位和许多蛋白的综合功能，还可以用于协调几乎所有细胞过程中的活性，激酶在信号转导和复杂功能的协同作用譬如细胞周期循环中具有重要作用。
 
-![](https://en.wikipedia.org/wiki/File:Basic_phosphorylation_reaction.png)
+![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Basic_phosphorylation_reaction.png)
 
 ## [human kinase genes](http://kinase.com/web/current/kinbase/genes/SpeciesID/9606/)
 
